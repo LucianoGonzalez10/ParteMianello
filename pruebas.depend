@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1685629935 source:c:\users\usuario\documents\pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+
+1686754740 source:c:\users\damian lupo\desktop\pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+
+1687353556 source:c:\users\usuario\desktop\pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+	"gotoxy.h"
+	"Usuarios.h"
+
+1687335526 source:c:\users\usuario\desktop\pruebas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687335526 c:\users\usuario\desktop\pruebas\gotoxy.h
+
+1686817080 source:c:\users\damian lupo\downloads\pruebas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687204973 source:c:\users\damian lupo\downloads\pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+	"gotoxy.h"
+	"Usuarios.h"
+
+1491385496 c:\users\damian lupo\downloads\pruebas\gotoxy.h
+
+1687198987 c:\users\damian lupo\downloads\pruebas\usuarios.h
+	"Usuarios.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+	"gotoxy.h"
+
+1687229524 source:c:\users\damian lupo\downloads\pruebas\usuarios.c
+	"Usuarios.h"
+
+1687353302 c:\users\usuario\desktop\pruebas\usuarios.h
+	"Usuarios.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+	"gotoxy.h"
+
+1687353317 source:c:\users\usuario\desktop\pruebas\usuarios.c
+	"Usuarios.h"
+
+1687362062 source:c:\users\gonza\downloads\programa-main\programa-main\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687362716 source:c:\users\gonza\downloads\programa-main\programa-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+	"gotoxy.h"
+	"Usuarios.h"
+
+1687362062 c:\users\gonza\downloads\programa-main\programa-main\gotoxy.h
+
+1687362597 c:\users\gonza\downloads\programa-main\programa-main\usuarios.h
+	"Usuarios.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<strings.h>
+	"gotoxy.h"
+
+1687362597 source:c:\users\gonza\downloads\programa-main\programa-main\usuarios.c
+	"Usuarios.h"
+
